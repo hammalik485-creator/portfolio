@@ -1,2 +1,6 @@
 node_modules/
 .env
+
+# Large video files
+*.mp4
+*.mov
